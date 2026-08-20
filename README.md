@@ -106,7 +106,6 @@ Subqueries
 Aggregate functions
 Project Structure
 ecommerce-sql-analysis/
-|
 ├── README.md
 ├── schema.sql
 ├── data.sql
